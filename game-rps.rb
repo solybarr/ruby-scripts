@@ -1,5 +1,6 @@
 #Rock Paper Scissors Game
 #Author > Solybarr
+#https://github.com/solybarr/ruby-scripts/blob/master/game-rps.rb
 
 # My steps for this game
 # 1- Ask for input, give choice to quit
